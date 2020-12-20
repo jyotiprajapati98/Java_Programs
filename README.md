@@ -1,2 +1,2 @@
 # Java_Programs
-In this repo i write all basic java programs during practice time.
+Java_Programs repo contains all java program from basic to complex level that is generally helpful in problem solving.
