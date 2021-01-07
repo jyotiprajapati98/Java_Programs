@@ -9,7 +9,7 @@ import java.util.Scanner;
 class HalfPyramid{
 	public static void main(String args[]){
 		Scanner scan = new Scanner(System.in);
-		System.out.println("Enter Rows and Column for Half Pyramid , row nad column should equal for pattern");
+		System.out.println("Enter Rows and Column for Half Pyramid , row and column should equal for pattern");
 		int rows = scan.nextInt();
 		int column = scan.nextInt();
 		
